@@ -1,7 +1,7 @@
 # Application Usage (OAuth)
 
 ## Identity Server
-Provides Client Credentials flow and Auth code flow:
+Provides Client Credentials flow and Auth code flow with PKCE disable:
 - **Download and Run**: Use Visual Studio, works on .NET Core latest version. Access at https://localhost:5001/
 - **Documentation**: Read the quickstart guides [here](https://github.com/IdentityServer/IdentityServer4.Samples/tree/master/Quickstarts/).
 - **Postman Testing**: Check the Postman Collection folder and read the docs for testing instructions.
