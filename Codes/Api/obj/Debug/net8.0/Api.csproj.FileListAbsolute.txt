@@ -1,0 +1,70 @@
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\appsettings.Development.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\appsettings.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Api.exe
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Api.deps.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Api.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Api.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\refint\Api.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Api\obj\Debug\net8.0\ref\Api.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\appsettings.Development.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\appsettings.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Api.exe
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Api.deps.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Api.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Api.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets\msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Api.props
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Api.props
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Api.props
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\scopedcss\bundle\Api.styles.css
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\refint\Api.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Api\obj\Debug\net8.0\ref\Api.dll

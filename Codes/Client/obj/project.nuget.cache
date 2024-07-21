@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gy3APS1SpaA=",
+  "success": true,
+  "projectFilePath": "Z:\\Happy Codes\\Oauth 2.1\\Codes\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayzu\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

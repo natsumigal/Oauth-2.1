@@ -1,0 +1,103 @@
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\appsettings.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityServer.staticwebassets.runtime.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityServer.exe
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityServer.deps.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityServer.runtimeconfig.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityServer.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityServer.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.Storage.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\IdentityModel.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.AspNetCore.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\Serilog.Sinks.File.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.csproj.AssemblyReference.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.AssemblyInfoInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.AssemblyInfo.cs
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.RazorAssemblyInfo.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.RazorAssemblyInfo.cs
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.build.IdentityServer.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServer.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IdentityServer.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\scopedcss\bundle\IdentityServer.styles.css
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\Identity.FDBE6C83.Up2Date
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\refint\IdentityServer.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\IdentityServer.genruntimeconfig.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\IdentityServer\obj\Debug\net8.0\ref\IdentityServer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\appsettings.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityServer.staticwebassets.runtime.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityServer.exe
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityServer.deps.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityServer.runtimeconfig.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityServer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityServer.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Duende.IdentityServer.Storage.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\IdentityModel.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.AspNetCore.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\Serilog.Sinks.File.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.csproj.AssemblyReference.cache
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.AssemblyInfoInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.AssemblyInfo.cs
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.RazorAssemblyInfo.cache
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.RazorAssemblyInfo.cs
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.build.IdentityServer.props
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IdentityServer.props
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IdentityServer.props
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\scopedcss\bundle\IdentityServer.styles.css
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\Identity.FDBE6C83.Up2Date
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\refint\IdentityServer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\IdentityServer.genruntimeconfig.cache
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\obj\Debug\net8.0\ref\IdentityServer.dll
+Z:\Happy Codes\Oauth 2.1\Codes\IdentityServer\bin\Debug\net8.0\keys\is-signing-key-06D59E81558C6E30C7FD1F90ABFB79D1.json

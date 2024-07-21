@@ -1,0 +1,80 @@
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\appsettings.Development.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\appsettings.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\WebClient.staticwebassets.runtime.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\WebClient.exe
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\WebClient.deps.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\WebClient.runtimeconfig.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\WebClient.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\WebClient.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.csproj.AssemblyReference.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.AssemblyInfoInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.AssemblyInfo.cs
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.MvcApplicationPartsAssemblyInfo.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.RazorAssemblyInfo.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.RazorAssemblyInfo.cs
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.WebClient.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.build.WebClient.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebClient.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebClient.props
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\scopedcss\bundle\WebClient.styles.css
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\scopedcss\projectbundle\WebClient.bundle.scp.css
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.csproj.Up2Date
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\refint\WebClient.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\WebClient.genruntimeconfig.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\WebClient\obj\Debug\net8.0\ref\WebClient.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\appsettings.Development.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\appsettings.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\WebClient.staticwebassets.runtime.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\WebClient.exe
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\WebClient.deps.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\WebClient.runtimeconfig.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\WebClient.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\WebClient.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.csproj.AssemblyReference.cache
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.AssemblyInfoInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.AssemblyInfo.cs
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.MvcApplicationPartsAssemblyInfo.cache
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.RazorAssemblyInfo.cache
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.RazorAssemblyInfo.cs
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.WebClient.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.build.WebClient.props
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebClient.props
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebClient.props
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\scopedcss\bundle\WebClient.styles.css
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\scopedcss\projectbundle\WebClient.bundle.scp.css
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.csproj.Up2Date
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\refint\WebClient.dll
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\WebClient.genruntimeconfig.cache
+Z:\Happy Codes\Oauth 2.1\Codes\WebClient\obj\Debug\net8.0\ref\WebClient.dll

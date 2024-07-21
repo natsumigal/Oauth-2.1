@@ -1,0 +1,34 @@
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\bin\Debug\net8.0\Client.exe
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\bin\Debug\net8.0\Client.deps.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\bin\Debug\net8.0\Client.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\bin\Debug\net8.0\Client.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\bin\Debug\net8.0\IdentityModel.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\refint\Client.dll
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.pdb
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+Z:\Happy Codes\Samples-main\Samples-main\IdentityServer\v7\Quickstarts\2_InteractiveAspNetCore\src\Client\obj\Debug\net8.0\ref\Client.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Client\bin\Debug\net8.0\Client.exe
+Z:\Happy Codes\Oauth 2.1\Codes\Client\bin\Debug\net8.0\Client.deps.json
+Z:\Happy Codes\Oauth 2.1\Codes\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+Z:\Happy Codes\Oauth 2.1\Codes\Client\bin\Debug\net8.0\Client.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Client\bin\Debug\net8.0\Client.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\Client\bin\Debug\net8.0\IdentityModel.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.csproj.Up2Date
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\refint\Client.dll
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.pdb
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+Z:\Happy Codes\Oauth 2.1\Codes\Client\obj\Debug\net8.0\ref\Client.dll
