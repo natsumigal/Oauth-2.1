@@ -1,21 +1,27 @@
-Application Usage (Oauth) 
-    Identity Server (Provide Client Credentials flow and Auth code flow)
-        * Download and Run with Visual Studio/ works on .net core latest version =>https://localhost:5001/
-        * Read in https://github.com/IdentityServer/IdentityServer4.Samples/tree/master/Quickstarts/
-        * Postman Testing => check on Postman Collection folder and Read Docs
-    Web Client
-        * Download and Run with Visual Studio,it's razor => authitication code flow
-    demo api (.net core api)/ demo web (React)=> authitication code flow
-        * Open the identity-server-demo-wep project in Visual Studio Code
-        * `yarn install` to get all necessary packages
-        * `yarn start` to run the app on http://localhost:3006
-    Client/api
-        * Client Credentials flow, Just check in Client console app what's happening xD, Test and Read Docs :)
-    
-      
+# Application Usage (OAuth)
 
-The reference codes and docs are available in the following links:
-    * https://docs.duendesoftware.com/
-    * https://github.com/krisravishankar/identity-server-demo
+## Identity Server
+Provides Client Credentials flow and Auth code flow:
+- **Download and Run**: Use Visual Studio, works on .NET Core latest version. Access at https://localhost:5001/
+- **Documentation**: Read the quickstart guides [here](https://github.com/IdentityServer/IdentityServer4.Samples/tree/master/Quickstarts/).
+- **Postman Testing**: Check the Postman Collection folder and read the docs for testing instructions.
+
+## Web Client
+- **Setup**: Download and run with Visual Studio. It uses Razor for authentication code flow.
+
+## Demo API (.NET Core API) / Demo Web (React)
+Both use authentication code flow:
+- **Setup for Demo Web**:
+  - Open the `identity-server-demo-web` project in Visual Studio Code.
+  - Run `yarn install` to get all necessary packages.
+  - Run `yarn start` to launch the app on http://localhost:3006.
+
+## Client/API
+- **Client Credentials Flow**: Explore the Client console app to see how it works. Test and read the documentation for more details.
+
+# References
+The reference codes and documentation are available at the following links:
+- [Duende Software Documentation](https://docs.duendesoftware.com/)
+- [Identity Server Demo on GitHub](https://github.com/krisravishankar/identity-server-demo)
     
     
